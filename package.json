@@ -1,0 +1,22 @@
+{
+  "name": "npm-sista",
+  "version": "1.0.0",
+  "description": "sista saken",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jadibrahim86/npm-sista.git"
+  },
+  "author": "Yad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jadibrahim86/npm-sista/issues"
+  },
+  "homepage": "https://github.com/Jadibrahim86/npm-sista#readme",
+  "dependencies": {
+    "npm-dependent-yad": "^1.0.0"
+  }
+}
